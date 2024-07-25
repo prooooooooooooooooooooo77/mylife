@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Text-Only Site</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>Welcome to my personal website, where I will be sharing the latest updates on my life, my current goals, and my aspirations for the future. This platform is not just a space for me to share my journey, but also a way to connect with you on a deeper level and to make a tangible difference in the world.
+
+My aim is to harness the power of this website to support and uplift others—whether through assisting individuals, animals, or NGOs. I believe in the transformative power of community and collaboration, and your support is crucial in turning these ambitions into reality. Through this website, I will provide updates on how donations are being utilized, highlighting the positive changes and impact they have made.
+
+At present, I am deeply invested in developing and honing my skills, with website creation being one of my new endeavors. I am excited to share my progress with you, including my music, as I explore this creative outlet. While the site is still in its early stages, I am committed to making it increasingly interactive and engaging. Although I am not yet equipped to add features like comment sections where you can share your inspiring stories, this is a goal I am working towards.
+
+I prefer this approach over vlogging, as I find it allows for a more thoughtful and less intrusive way to connect with you. My vision is to create a space that evolves with time, reflecting the dynamic nature of both my personal journey and the collective efforts we undertake. Thank you for joining me on this path, and I look forward to growing together and making a meaningful impact.
+
+ .</p>
+    <p>I will be updating soon.</p>
+</body>
+</html>
